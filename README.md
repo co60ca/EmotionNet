@@ -4,7 +4,7 @@ EmotionNet
 What is EmotionNet?
 -
 
-Co-opted project by [Maeve Kennedy]https://github.com/co60ca([@co60ca](https://twitter.com/co60ca)) and [Adam Balint](https://github.com/AdamBalint)
+Co-opted project by [Maeve Kennedy](https://github.com/co60ca)([@co60ca](https://twitter.com/co60ca)) and [Adam Balint](https://github.com/AdamBalint)
 
 EmotionNet is an application of Convolutional Neural Networks to emotion recognition in photographs of human faces. It is willing to accept any photo of an image but has mixed results on photos that are not well composed. It contains build scripts for creating training data and a service for classifying the emotions on a webserver with PHP support and a python service for interfacing with the performance code.
 
@@ -12,10 +12,8 @@ Well how does it perform?
 -
 Extremely well actually. On validation data using an 80%/20% split we are able to train the model to 95% accuracy. We suggest that the performance of the model would only increase with the introduction of additional training data. Automatic collection of training data occurs within our feedback features.
 
-Here is a plot of training/validation loss and validation Accuracy
+Here is a plot of training/validation loss and validation accuracy  
 ![loss-and-validation](img/ggn-halfface-graph.png)
-
-<img>
 
 Examples
 -
