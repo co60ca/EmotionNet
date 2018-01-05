@@ -1,6 +1,10 @@
 EmotionNet
 =
 
+Important Notice 
+==
+This project was built upon for a second version and this version is no longer maintained. The new version has yet to be released and generalizes better than this version. I've been made aware that this version requires a little bit of undocumented work to get working.
+
 What is EmotionNet?
 -
 
